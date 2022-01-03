@@ -1,4 +1,4 @@
-import { Bookmark, Chat, Event, Group, HelpOutline, PlayCircleFilledOutlined, QuestionAnswerOutlined, RssFeed, School, WorkOutline } from '@material-ui/icons';
+import { Bookmark, Chat, Event, Group, HelpOutline, PlayCircleFilledOutlined, RssFeed, School, WorkOutline } from '@material-ui/icons';
 import React from 'react';
 import '../styles/Sidebar.css';
 
