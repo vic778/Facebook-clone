@@ -4,7 +4,8 @@
 
 
 
-![](https://github.com/Buyaki01/js_capstone_project/blob/test-counter/img/screen3.png)
+![](https://github.com/vic778/Facebook-clone/blob/feed/Screenshots/screen2.png)
+![](https://github.com/vic778/Facebook-clone/blob/feed/Screenshots/screen2.png)
 ## Built With
 
 - REACT
