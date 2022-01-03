@@ -4,7 +4,7 @@
 
 
 
-![](https://github.com/vic778/Facebook-clone/blob/sidebar/Screenshots/screen1.png)
+![](https://github.com/vic778/Facebook-clone/blob/feed/Screenshots/screen2.png)
 ## Built With
 
 - REACT
