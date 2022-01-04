@@ -34,10 +34,7 @@ const Share = () => {
                            </div>
                        </div>
                        ,<button className='shareButton'>Share</button>
-                   </div>
-
-                   
-              
+                   </div>     
            </div>
         </div>
     );
