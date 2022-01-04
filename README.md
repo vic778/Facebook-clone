@@ -1,10 +1,13 @@
 # FACEBOOK_CLONE
 
-> In this project I have created an E-commerce site within the framework of practising with `REACT DOM6` whose site contains : 
+> In this part :
+- a container with the birthday section
+- the section of the photos published for the birthday wish
+- the section of the mis that are online
 
 
 
-![](https://github.com/Buyaki01/js_capstone_project/blob/test-counter/img/screen3.png)
+![](https://github.com/vic778/Facebook-clone/blob/Birthday/Screenshots/screen4.png)
 ## Built With
 
 - REACT
